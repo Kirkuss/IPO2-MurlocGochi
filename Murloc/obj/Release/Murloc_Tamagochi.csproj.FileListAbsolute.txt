@@ -1,0 +1,6 @@
+C:\Users\71359205\source\repos\Murloc_Tamagochi\Murloc_Tamagochi\obj\Release\Controles\Logro.g.cs
+C:\Users\71359205\source\repos\Murloc_Tamagochi\Murloc_Tamagochi\obj\Release\MainWindow.g.cs
+C:\Users\71359205\source\repos\Murloc_Tamagochi\Murloc_Tamagochi\obj\Release\App.g.cs
+C:\Users\71359205\source\repos\Murloc_Tamagochi\Murloc_Tamagochi\obj\Release\Murloc_Tamagochi_Content.g.cs
+C:\Users\71359205\source\repos\Murloc_Tamagochi\Murloc_Tamagochi\obj\Release\Murloc_Tamagochi_MarkupCompile.cache
+C:\Users\71359205\source\repos\Murloc_Tamagochi\Murloc_Tamagochi\obj\Release\Murloc_Tamagochi_MarkupCompile.lref
