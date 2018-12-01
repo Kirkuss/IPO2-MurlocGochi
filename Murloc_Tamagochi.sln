@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murloc_Tamagochi", "Murloc_Tamagochi\Murloc_Tamagochi.csproj", "{D38DECD6-E48B-411C-AFA9-63772D12921F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38DECD6-E48B-411C-AFA9-63772D12921F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38DECD6-E48B-411C-AFA9-63772D12921F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38DECD6-E48B-411C-AFA9-63772D12921F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38DECD6-E48B-411C-AFA9-63772D12921F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5748F1A5-6304-47A4-9330-690DA0A99727}
+	EndGlobalSection
+EndGlobal
